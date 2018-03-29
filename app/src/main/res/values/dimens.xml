@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">75dip</dimen>
+    <dimen name="long_padding">150dip</dimen>
+    <dimen name="longest_padding">220dip</dimen>
+
+    <dimen name="mid_padding">110dip</dimen>
+    <dimen name="short_padding">60dip</dimen>
+    <dimen name="text_padding">300dip</dimen>
+</resources>
